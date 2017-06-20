@@ -1,15 +1,11 @@
 body {
     background-image: url("../img/bg.png");
     background-repeat: no-repeat;
-    
     background-attachment: fixed;
-    
-    width: 1215px;
-    height: 1028px;
+    background-size: cover;
     margin: 0;
     padding: 0;
 }
-
 
 nav {
 	width: 100%;
