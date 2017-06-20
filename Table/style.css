@@ -4,7 +4,6 @@ body {
 
 .wrapper {
 	width: 540px;
-	min-height: 540px;
 	margin-top: 100px;
 	margin-left: auto;
 	margin-right: auto;
@@ -12,12 +11,166 @@ body {
 }
 
 table {
-    border: 1px transparent;
     border-collapse: collapse;
+    width: 540px;
+    height: 540px;
 }
 
-tr, td {
-	border: 1px solid #000;
-	text-align: center;
+tr {
 	
+}
+
+td {
+	
+}
+
+
+
+
+.one {
+	width: ;
+	height: ;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+
+}
+.two {
+	width: ;
+	height: ;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.three {
+	width: ;
+	height: ;
+	background-color: #ff3;
+	border-bottom: 7px solid #000;
+}
+
+.four {
+	width: ;
+	height: ;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.five {
+	width: ;
+	height: ;
+	background-color: #f63;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.six {
+    width: ;
+	height: ;
+	background-color: #ff6;
+	border-bottom: 7px solid #000;
+}
+
+.seven {
+    width: ;
+	height: ;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.eight {
+    width: ;
+	height: ;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.nine {
+    width: ;
+	height: ;
+	border-bottom: 7px solid #000;
+}
+
+.ten {
+    width: ;
+	height: ;
+	background-color: #033;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.eleven {
+    width: ;
+	height: ;
+	background-color: #033;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.twelve {
+    width: ;
+	height: ;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.plaus {
+	width: ;
+	height: ;
+	border-bottom: 7px solid #000;
+}
+
+.thirteen {
+    width: ;
+	height: ;
+	background-color: #ff6;
+	border-right: 7px solid #000;
+	
+}
+
+.fourteen {
+    width: ;
+	height: ;
+	background-color: #033;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.fifteen {
+    width: ;
+	height: ;
+	background-color: #033;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.sixteen {
+    width: ;
+	height: ;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.seventeen {
+    width: ;
+	height: ;
+	background-color: #039;
+	border-bottom: 7px solid #000;
+}
+
+.eighteen {
+    width: ;
+	height: ;
+	border-right: 7px solid #000;
+}
+
+.nineteen {
+    width: ;
+	height: ;
+	background-color: #033;
+	border-right: 7px solid #000;
+	border-bottom: 7px solid #000;
+}
+
+.twenty {
+
 }
