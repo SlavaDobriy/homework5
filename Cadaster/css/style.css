@@ -1,7 +1,7 @@
 body {
-    background-image: url("bg.png");
+    background-image: url("../img/bg.png");
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: 100%;
     background-attachment: fixed;
 }
 
@@ -55,7 +55,6 @@ ul li:hover .topmenu {
 
 
 .conteiner {
-	background-image: url(img/bd.jpg);
 	width: 560px;
 	height: 615px;
     background: grey;
